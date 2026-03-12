@@ -1,4 +1,4 @@
-# Hi, I'm Xinling Xie 👋
+# Hi, I'm Xinling 👋
 
 I'm a Master's student in Computational Linguistics at LMU Munich.
 
